@@ -1,5 +1,3 @@
-更新后的 README 文件可以简化并更具条理性，同时提供双语内容（中英文）。以下是优化后的版本：
-
 ---
 
 # CatDogClassifier
@@ -142,4 +140,3 @@ This project is for educational purposes only. All rights to the dataset belong 
 
 --- 
 
-可以将上述内容替换原来的 `README.md` 文件，更加简洁明了！
