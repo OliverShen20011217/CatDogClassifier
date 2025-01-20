@@ -1,0 +1,37 @@
+# Python-related
+*.pyc                  # Compiled Python files
+__pycache__/           # Python cache files
+*.pyo                  # Optimized Python bytecode
+*.pyd                  # Python dynamic library files
+.Python                # Python environment marker
+
+# Environment-related
+.venv/                 # Virtual environment folder
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS-related
+.DS_Store              # macOS system file
+Thumbs.db              # Windows thumbnail cache
+
+# Data and models
+data/                  # Data directory
+results/               # Results directory (e.g., models, logs)
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/    # Jupyter Notebook checkpoints
+
+# IDE-related
+.idea/                 # PyCharm project settings
+.vscode/               # VS Code project settings
+
+# Logs
+*.log                  # Log files
+
+# Temporary files
+*.tmp                  # Temporary files
+*.bak                  # Backup files
+*.swp                  # Swap files for Vim/other editors
